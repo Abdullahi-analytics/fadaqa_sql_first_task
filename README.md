@@ -186,7 +186,7 @@ nigeria-states-sql-database-management/
 
 ## Author
 
-**Abdullahi Muhammed Soliu**  
-Data & Business Intelligence Analyst  
-Email: **abdullahimuhammedsoliu0018@gmail.com**
+**Abdullahi Muhammed Soliu**
+Data & Business Intelligence Analyst
+Email: [abdullahimuhammedsoliu0018@gmail.com]
 [Linkedin](https://www.linkedin.com/in/abdullahi-muhammed-soliu-074598417)
