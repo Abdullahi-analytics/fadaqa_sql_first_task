@@ -8,7 +8,7 @@ A foundational relational database project executed in **Microsoft SQL Server (S
 
 The output below shows the final verified state of the `Nigeria_state_zone` table in SQL Server Management Studio (SSMS) following schema alteration and conditional `CASE` updates across all eight records[cite: 5]:
 
-![Final Updated Table Output](images/fadaqa_update_data.png)
+![Final Updated Table Output](fadaqa_update_data.png)
 
 **What to notice in this output:**
 * All 8 state records are structured under a primary key (`states`) alongside standardized attributes (`state_abb`, `capital`, `slogan`, `date_created`, `geopolitical_zone`, `local_govt`, `Pol_party`)[cite: 2, 5].
@@ -145,7 +145,7 @@ nigeria-states-sql-database-management/
 ├── sql/
 │   └── nigeria_state_zone_ddl_dml.sql    # Full T-SQL script (CREATE, INSERT, UPDATE, ALTER, CASE) [proposed]
 └── images/
-    ├── FadaQa_Project_1 (1).png          # Formatted script: CREATE TABLE & INSERT INTO
+    ├── FadaQa_Project_1.png              # Formatted script: CREATE TABLE & INSERT INTO
     ├── FadaQa_Project_2.png              # Formatted script: UPDATE, ALTER TABLE & CASE WHEN
     ├── fadaqa_table_created.png          # SSMS query and initial 8-row result grid
     ├── fadaqa_update_1.png               # SSMS slogan updates and intermediate result grid
@@ -188,4 +188,5 @@ nigeria-states-sql-database-management/
 
 **Abdullahi Muhammed Soliu**  
 Data & Business Intelligence Analyst  
-Email: `abdullahimuhammedsoliu0018@gmail.com`
+Email: **abdullahimuhammedsoliu0018@gmail.com**
+[Linkedin](https://www.linkedin.com/in/abdullahi-muhammed-soliu-074598417)
